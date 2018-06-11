@@ -1,0 +1,23 @@
+{
+  "name": "Scripting-HTTP-Requests-with-the-Request-Package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Copterdoctor/Scripting-HTTP-Requests-with-the-Request-Package.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Copterdoctor/Scripting-HTTP-Requests-with-the-Request-Package/issues"
+  },
+  "homepage": "https://github.com/Copterdoctor/Scripting-HTTP-Requests-with-the-Request-Package#readme",
+  "dependencies": {
+    "request": "^2.87.0"
+  }
+}
